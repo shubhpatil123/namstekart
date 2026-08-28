@@ -37,7 +37,7 @@ aws_secret_access_key=aws_secret
 
 
 # Configuration
-BUCKET_NAME = 'amzn-pyth-ankit-bansal-de'
+BUCKET_NAME = 'amzn-pyth-shubham-patil-de'
 DATE_STR = datetime.now().strftime('%Y%m%d')
 DISPLAY_DATE = datetime.now().strftime('%Y-%m-%d')
 date_str = datetime.now().strftime('%Y%m%d')
